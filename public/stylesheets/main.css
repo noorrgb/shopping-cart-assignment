@@ -1,0 +1,23 @@
+#reactbody{
+    text-align: center;
+}
+
+.product-list-product-img{
+    max-width: 100%;
+}
+
+.product-list-price{
+    color: #b12704;
+}
+
+.product-list-product{
+
+}
+
+.product-list-product:hover{
+    background: lightgrey;
+}
+
+.product-details-product-img{
+    max-width: 100%;
+}
