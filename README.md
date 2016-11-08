@@ -23,5 +23,4 @@ webpack
 
 # Important Note
 
-The is a fully functional web-app with only one deviation from requirements i.e i did not use mongoDB for storing cart items. The reason is the issue i am facing
-because of time constraint and an issue i was facing about accessing jquery from webpack generated modules, i needed the jquery for API calls.
+The is a fully functional web-app with only one deviation from requirements i.e i did not use mongoDB for storing cart items. The reason is a combination of time constraint and an unexpected issue i faced about accessing jquery from webpack generated bundled JS modules, i needed the jquery for API calls.
