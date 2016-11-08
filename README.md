@@ -4,12 +4,8 @@ This sample project is simulating a universal shopping cart, created for DevCrew
 
 # Technology Stack used
 
-React
-Redux
-Express
-nodejs
-mongoDB
-webpack
+React, Redux, Express, nodejs, mongoDB, webpack,
+
 
 # Steps to run
 
